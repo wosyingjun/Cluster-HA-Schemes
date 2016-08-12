@@ -15,8 +15,9 @@
 - **[基于keepalived 的 Nginx 高可用集群方案](http://wosyingjun.iteye.com/blog/2313147)**  
 - **[Kafka 集群的部署与测试](http://wosyingjun.iteye.com/blog/2316508)**
 - **[ActiveMQ 高可用集群方案](http://wosyingjun.iteye.com/blog/2314683)**  
+- **[JStorm2.1.1集群的安装和使用](http://wosyingjun.iteye.com/blog/2317034)**
 - **Flume 集群负载均衡（待完善）**
-- **Storm+Esper 分布式集群（待完善）** 
+- **MySQL 主从复制的高可用解决方案（待完善）**
 
 
 
